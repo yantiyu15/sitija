@@ -99,7 +99,7 @@
             <div class="card">
               <img src="../img/avatar.png" class="card-img-top mx-auto" alt="..." style="width: 250px;">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Kepala Desa</h5>
                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               </div>
             </div>
@@ -108,13 +108,13 @@
             <div class="card">
             <img src="../img/avatar.png" class="card-img-top mx-auto" alt="..." style="width: 250px;">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Sekertaris Desa</h5>
                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               </div>
             </div>
           </div>
           <div class="col">
-            <div class="card">
+            <div class="card mt-2">
             <img src="../img/avatar.png" class="card-img-top mx-auto" alt="..." style="width: 250px;">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -132,7 +132,7 @@
   <section id="portfolio" class="contact">
     <div class="mr-md-auto text-center text-md-left px-2">
       <div class="copyright">
-        &copy; Copyright <strong><span>SIG SMA&SMK</span></strong>.
+        &copy; Copyright <strong><span>SITIJA</span></strong>.
       </div>
     </div>
   </section>
